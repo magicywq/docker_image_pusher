@@ -11,3 +11,4 @@ zonty/nas-tools:2.9.1
 gdy666/lucky
 v2raya/v2raya
 mzz2017/v2raya
+v2ray/official
